@@ -6,7 +6,7 @@ from ibm_watsonx_ai.foundation_models import ModelInference
 def get_credentials():
     return {
         "url" : "https://au-syd.ml.cloud.ibm.com",
-        "apikey" : "jkJeKPzlB42IYrkblmMBIH5Vj7lTHO8YEs8OKkApdEsV"
+        "apikey" : "YOUR_API_KEY"
     }
 
 model_id = "mistralai/mistral-large"
